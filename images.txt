@@ -1,4 +1,5 @@
 linuxserver/syncthing
+syncthing/syncthing
 nfew/aio-dynamic-push
 xhongc/music_tag_web
 jonnyan404/verysync
