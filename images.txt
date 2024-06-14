@@ -1,6 +1,12 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+linuxserver/syncthing
+nfew/aio-dynamic-push
+xhongc/music_tag_web
+jonnyan404/verysync
+dreamacro/clash-premium
+louislam/uptime-kuma
+vaultwarden/server
+ttionya/vaultwarden-backup
+bililive/recorder
+haishanh/yacd
+xhongc/music_tag_web
+ghcr.io/gethomepage/homepage:latest
