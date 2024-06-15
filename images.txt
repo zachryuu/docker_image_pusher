@@ -1,1 +1,2 @@
 0nlylty/dockercopilot:ZSPACE
+docker.io/jc21/nginx-proxy-manager
