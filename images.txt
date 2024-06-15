@@ -11,4 +11,4 @@ bililive/recorder
 haishanh/yacd
 xhongc/music_tag_web
 ghcr.io/gethomepage/homepage:latest
-0nlylty/one-key-update:zspace
+0nlylty/dockercopilot:zspace
