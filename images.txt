@@ -1,2 +1,16 @@
+linuxserver/syncthing
+syncthing/syncthing
+nfew/aio-dynamic-push
+xhongc/music_tag_web
+jonnyan404/verysync
+dreamacro/clash-premium
+louislam/uptime-kuma
+vaultwarden/server
+ttionya/vaultwarden-backup
+bililive/recorder
+haishanh/yacd
+xhongc/music_tag_web
+ghcr.io/gethomepage/homepage:latest
 0nlylty/dockercopilot:ZSPACE
 docker.io/jc21/nginx-proxy-manager
+johngong/calibre-web
